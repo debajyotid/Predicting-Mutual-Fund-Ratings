@@ -11,14 +11,23 @@ Goal: The goal of this project is to predict GreatStone’s rating of a mutual f
 ### Dataset Information
 Files Description:
 The following files are provided in the form of CSVs. These files contain various attributes related to the mutual fund.
-bond_ratings, fund_allocations, fund_config, fund_ratios, fund_specs, other_specs, return_3year, return_5year, return_10year. 
+#### bond_ratings, fund_allocations, fund_config, fund_ratios, fund_specs, other_specs, return_3year, return_5year, return_10year. 
 
-bond_ratings consists of 12 columns which provide information on the bond rating percentage allocation of the mutual funds.
-fund_allocations consists of 12 columns which provide information on the sector wise percentage allocation of the mutual funds
-fund_config comprises of 4 columns which comprise the metadata of the mutual funds
-fund_ratios consists of 8 columns which provides information on various fundamental ratios that describe the mutual funds
-fund_specs contains 9 columns which give information about the specifications of the mutual funds
-other_specs contains 43 columns which give information of the other aspects of the mutual funds
-return_3years contains 17 columns which give information about 3 year return and ratios
-return_5years contains 17 columns which give information about 3 year return and ratios
-return_10years contains 17 columns which give information about 3 year return and ratios
+#### bond_ratings 
+consists of 12 columns which provide information on the bond rating percentage allocation of the mutual funds.
+#### fund_allocations 
+consists of 12 columns which provide information on the sector wise percentage allocation of the mutual funds
+#### fund_config 
+comprises of 4 columns which comprise the metadata of the mutual funds
+#### fund_ratios 
+consists of 8 columns which provides information on various fundamental ratios that describe the mutual funds
+#### fund_specs 
+contains 9 columns which give information about the specifications of the mutual funds
+#### other_specs 
+contains 43 columns which give information of the other aspects of the mutual funds
+#### return_3years  
+contains 17 columns which give information about 3 year return and ratios
+#### return_5years 
+contains 17 columns which give information about 3 year return and ratios
+#### return_10years 
+contains 17 columns which give information about 3 year return and ratios
